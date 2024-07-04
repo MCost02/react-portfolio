@@ -13,7 +13,7 @@ export const Navbar = () => {
       </a>
       <div className={styles.menu}>
         <img
-          classname={styles.menuButton}
+          className={styles.menuButton}
           src={
             menuOpen
               ? getImageUrl("closeIcon.png")
@@ -30,13 +30,13 @@ export const Navbar = () => {
             <a href="#about">About</a>
           </li>
           <li>
-            <a href="experience">Experience</a>
+            <a href="#experience">Experience</a>
           </li>
           <li>
-            <a href="projects">Projects</a>
+            <a href="#projects">Projects</a>
           </li>
           <li>
-            <a href="contact">Contact</a>
+            <a href="#contact">Contact</a>
           </li>
         </ul>
       </div>
