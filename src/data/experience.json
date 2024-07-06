@@ -1,0 +1,34 @@
+[
+  {
+    "role": "IT System Administrator",
+    "company": "Industrial Fabricators",
+    "startDate": "Aug 2023",
+    "endDate": "Present",
+    "details": ["Managed Active Directory and various software licenses for over 500 employees", 
+                "Delivered IT support across 3 plants, resolving an average of 15 tickets per day",
+                "Collaborated with Quality Assurance team to design mobile stations, reducing part inspection times by 30%",
+                "Directed asset management and maintained SQL databases, network drives, and server infrastructure/security",
+                "Deployed dashboards employing PowerBi to display KPIs and increase employee productivity by 20%"],
+    "imageSrc": "experience/ifab.png"
+  },
+  {
+    "role": "Freelance IT Technician",
+    "company": "Field Nation",
+    "startDate": "Apr 2023",
+    "endDate": "Present",
+    "details": ["Installed, configured, and maintained a variety of software and hardware",
+                "Provided technical support and consultation to over 20 unique clients",
+                "Diagnosed and resolved diverse technical issues in both commercial and residential environments"],
+    "imageSrc": "experience/fn.png"
+  },
+  {
+    "role": "Student Leader/Mentor",
+    "company": "STARS Computing Corps",
+    "startDate": "Jan 2020",
+    "endDate": "Jun 2023",
+    "details": ["Taught students Computer Science fundamentals and led 40+ classes through coding activities",
+                "Developed and presented lesson plans for teachers to help introduce coding to 1200 students",
+                "Educated students in grades 6-12 on UNCC’s Computer Science program and the Computing field"],
+    "imageSrc": "experience/stars.png"
+  }
+]
