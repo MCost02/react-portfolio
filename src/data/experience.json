@@ -9,7 +9,7 @@
                 "Collaborated with Quality Assurance team to design mobile stations, reducing part inspection times by 30%",
                 "Directed asset management and maintained SQL databases, network drives, and server infrastructure/security",
                 "Deployed dashboards employing PowerBi to display KPIs and increase employee productivity by 20%"],
-    "imageSrc": "experience/ifab.png"
+    "logo": "experience/ifab.png"
   },
   {
     "role": "Freelance IT Technician",
@@ -19,7 +19,7 @@
     "details": ["Installed, configured, and maintained a variety of software and hardware",
                 "Provided technical support and consultation to over 20 unique clients",
                 "Diagnosed and resolved diverse technical issues in both commercial and residential environments"],
-    "imageSrc": "experience/fn.png"
+    "logo": "experience/fn.png"
   },
   {
     "role": "Student Leader/Mentor",
@@ -29,6 +29,6 @@
     "details": ["Taught students Computer Science fundamentals and led 40+ classes through coding activities",
                 "Developed and presented lesson plans for teachers to help introduce coding to 1200 students",
                 "Educated students in grades 6-12 on UNCC’s Computer Science program and the Computing field"],
-    "imageSrc": "experience/stars.png"
+    "logo": "experience/stars.png"
   }
 ]
